@@ -1,0 +1,1 @@
+java -classpath .\out\production\testHSQLBD;lib\hsqldb.jar com.alex.gui.Frame
